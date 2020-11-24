@@ -2,15 +2,33 @@
 
 Hello visitor!
 
-Information:
+# Information:
 
-Name: Elohim K Obambe.
+Name: Elohim Obambe.
 
-Skills: Music making.
+Hobbies: Making music, Soccer.
 
-Job: Founder and Creator of the Da Real People company and Employer.
+Jobs: Founder and Creator of the Da Real People company and Employer.
 
-Location: Walkersville, USA.
+Location: Maryland, USA.
 
-Contact link:
+# Social Links
+
+Vimeo: https://vimeo.com/user127261774
+
+Twitter: https://twitter.com/RealElohim
+
+My website: http://sites.google.com/view/darealpeople
+
+My music website: https://sites.google.com/view/darealelohimmusic
+
+Bandcamp: https://darealelohim.bandcamp.com/
+
+# Leaving message
+
+Bye!
+
+I hope you will visit again soon!
+
+Contact Link:
  https://bit.ly/3m27pxB
